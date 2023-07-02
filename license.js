@@ -3,6 +3,9 @@ var soft = {
 	'user_license':'free',
 	'user_trial':'off',
 	'soft_name':'ivoicee',
+	'author_mail':'rmubashar4747@gmail.com',
+	'author_name':'Mubashar Toseef',
+	'author_mob':'3066904747'
 }
 
 function validate() {
