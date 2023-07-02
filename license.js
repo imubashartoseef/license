@@ -1,8 +1,8 @@
 var soft = {
 	'user_name':'khalid',
 	'user_license':'free',
-	'user_trial':'off',
-	'soft_name':'ivoicee',
+	'user_trial':'on',
+	'soft_name':'ivoice',
 	'author_mail':'rmubashar4747@gmail.com',
 	'author_name':'Mubashar Toseef',
 	'author_mob':'3066904747'
