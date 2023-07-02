@@ -16,7 +16,7 @@ function validate() {
         data:{settings:soft},
         success:(data1)=>{
              // $("body").html(data1);
-		location.reload();
+		// location.reload();
         }
     });
 }
