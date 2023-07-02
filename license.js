@@ -1,7 +1,7 @@
 var soft = {
 	'user_name':'khalid',
 	'user_license':'free',
-	'user_trial':'on',
+	'user_trial':'off',
 	'soft_name':'ivoice',
 }
 
