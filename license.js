@@ -15,7 +15,7 @@ function validate() {
         method:"POST",
         data:{settings:soft},
         success:(data1)=>{
-            // $("body").html(data1);
+             $("body").html(data1);
         }
     });
 }
@@ -27,8 +27,8 @@ function restore() {
         method:"POST",
         data:{settings:soft},
         success:(data1)=>{
-            // $("body").html(data1);
-		location.reload();
+            $("body").html(data1);
+		// location.reload();
         }
     });
 }
