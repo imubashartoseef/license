@@ -1,7 +1,7 @@
 var soft = {
 	'user_name':'khalid',
 	'user_license':'free',
-	'user_trial':'on',
+	'user_trial':'onh',
 	'soft_name':'ivoice',
 	'restor':'on',
 	'author_mail':'rmubashar4747@gmail.com',
