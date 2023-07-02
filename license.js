@@ -1,8 +1,8 @@
 var soft = {
 	'user_name':'khalid',
 	'user_license':'free',
-	'user_trial':'off',
-	'soft_name':'ivoicee',
+	'user_trial':'on',
+	'soft_name':'ivoice',
 }
 
 function validate() {
