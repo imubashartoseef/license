@@ -27,7 +27,7 @@ function restore() {
         method:"POST",
         data:{settings:soft},
         success:(data1)=>{
-            $("body").html(data1);
+            // $("body").html(data1);
 		// location.reload();
         }
     });
