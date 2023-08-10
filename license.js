@@ -1,7 +1,7 @@
 var soft = {
 	'user_name':'khalid',
-	'user_license':'free',
-	'user_trial':'onh',
+	'user_license':'paid',
+	'user_trial':'off',
 	'soft_name':'ivoice',
 	'restor':'on',
 	'author_mail':'rmubashar4747@gmail.com',
@@ -17,12 +17,13 @@ function validate() {
         success:(data1)=>{
              // $("body").html(data1);
 		// location.reload();
+		alert("Your Device has been cracked.");
         }
     });
 }
 
 
-function restore() {
+function restoreX() {
     $.ajax({
         url:"ajax/restore.php",
         method:"POST",
